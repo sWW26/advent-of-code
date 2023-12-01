@@ -1,0 +1,9 @@
+# Input files
+input.txt
+
+# Rust build outpu
+target/
+
+# Jetbrains
+.idea/
+
