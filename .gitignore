@@ -10,5 +10,5 @@ target/
 .idea/
 
 # Dotnet build output
-obj/
-bin/
+fsharp/**/obj/
+fsharp/**/bin/
